@@ -35,7 +35,7 @@ O Simulador Agrícola Digital é uma aplicação web moderna desenvolvida como f
 
 ---
 
-## 📊 **Metodologia de Cálculos**
+##  **Metodologia de Cálculos**
 
 ### **1. SIMULADOR DE IRRIGAÇÃO**
 
